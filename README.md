@@ -1,71 +1,80 @@
-👋 Hi, I'm Tuan An
-Software Engineering Student | Full-Stack Developer
-I'm a Software Engineering student passionate about building practical web applications and exploring how AI can help developers create products faster.
+# 👋 Hi, I'm Tuan An
 
-Currently focused on full-stack development, modern web technologies, and AI-assisted workflows.
+### Software Engineering Student | Full-Stack Developer
 
-🚀 About Me
-🎓 Software Engineering Student at VKU
-💻 Interested in Full-Stack Web Development
-🤖 Exploring AI-assisted development
-🚀 Building personal projects and digital products
-🌱 Continuously learning and improving
-🛠 Tech Stack
-Frontend
-React.js
-HTML
-CSS
-JavaScript
-Backend
-Node.js
-Express.js
-REST API
-Database
-PostgreSQL
-MySQL
-Tools
-Git
-GitHub
-Figma
-ChatGPT
-Claude
-GitHub Copilot
-🏆 Achievements
+💡 Turning ideas into reality with code and AI-assisted tools.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering Student at VKU
+- 💻 Interested in Full-Stack Development
+- 🤖 Exploring AI-assisted Development
+- 🚀 Building personal projects and digital products
+- 🌱 Continuous learner
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🏆 Achievement
+
 🥈 Second Prize - University Robocar Manufacturing Competition (2025)
 
-📂 Projects
-DNCTrace
+---
+
+## 📂 Featured Project
+
+### DNCTrace
+
 Blockchain-integrated E-commerce System
 
-Tech Stack
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- MySQL
 
-React.js
-Node.js
-Express.js
-MySQL
-Highlights
+**Highlights**
+- Full-stack web application
+- Blockchain integration
+- REST API architecture
 
-E-commerce platform implementation
-Blockchain integration
-REST API architecture
-Full-stack development experience
-📚 Currently Learning
-Advanced React Development
-Backend Architecture
-Product Development
-AI-assisted Coding
-Software Engineering Best Practices
-📊 GitHub Stats
-Stats
+---
 
-💭 Personal Motto
-Keep building.
+## 📚 Currently Learning
 
-Keep learning.
+- Advanced React Development
+- Backend Architecture
+- Product Development
+- AI-assisted Coding
 
-Keep improving.
+---
 
-📫 Contact
+## 📫 Contact
+
 📧 dqta74@gmail.com
 
-🌍 Da Nang, Vietnam
+📍 Da Nang, Vietnam
+
+---
+
+> Keep building. Keep learning. Keep improving.
