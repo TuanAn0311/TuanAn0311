@@ -78,8 +78,7 @@ Blockchain-integrated E-commerce System
 ---
 
 > Keep building. Keep learning. Keep improving.
->
-> ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuanAn0311&show_icons=true&theme=tokyonight)
 
